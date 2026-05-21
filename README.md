@@ -25,7 +25,7 @@ I'm a software developer focused on building reliable, efficient, and well-desig
 
 ### Frontend
 
-![Angular](https://img.shields.io/badge/-React-000?style=for-the-badge\&logo=angular)
+![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge\&logo=angular)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge\&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge\&logo=css3)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge\&logo=tailwindcss)
@@ -43,15 +43,6 @@ I'm a software developer focused on building reliable, efficient, and well-desig
 * Building projects that feel polished and useful
 * Improving problem-solving and system design skills
 * Exploring AI, automation, and modern web apps
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170" />
-</p>
 
 ---
 
