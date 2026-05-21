@@ -1,18 +1,20 @@
+
 # ✨ Hey, I'm Ruba
 
 ```txt
-Building clean systems, solving real problems.
-```
+Learning, building, and improving every day.
+````
 
-I'm a software developer focused on building reliable, efficient, and well-designed applications. I enjoy turning ideas into practical solutions, learning modern technologies, and continuously improving my skills through real projects and problem-solving.
+I'm a Computer Engineering student passionate about backend development and problem-solving. I enjoy building projects, learning modern technologies, and improving my skills through hands-on experience.
 
 ---
 
 ## 🌸 About Me
 
-* 💻 Software developer with a strong interest in clean architecture and modern technologies
-* 🚀 Passionate about continuous learning and building meaningful projects
-* 🌙 Focused, detail-oriented, and comfortable working through complex problems
+* 💻 Computer Engineering student interested in web development and software engineering
+* 🚀 Passionate about learning new technologies and building real projects
+* 🌙 Curious, detail-oriented, and always looking to improve
+
 ---
 
 ## 🛠 Tech Stack
@@ -40,22 +42,20 @@ I'm a software developer focused on building reliable, efficient, and well-desig
 
 ## 📌 Current Focus
 
-* Building projects that feel polished and useful
-* Improving problem-solving and system design skills
-* Exploring AI, automation, and modern web apps
+* Strengthening problem-solving and programming fundamentals
+* Building clean and practical projects
+* Learning more about modern web development and backend systems
+* Exploring AI and automation
 
 ---
 
-##  Connect With Me
+## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge\&logo=linkedin)](www.linkedin.com/in/ruba-abu-samra
-
-
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/ruba-abu-samra)
 
 ---
 
 <p align="center">
-  <i>"Clean code. Clear thinking. Real impact."</i>
+  <i>"Clean code. Clear thinking. Continuous growth."</i>
 </p>
-
+```
